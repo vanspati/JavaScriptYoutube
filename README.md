@@ -1,2 +1,2 @@
-# JavaScriptYoutube
+# JavaScriptYoutubeBroCode
 Javascript work series 
