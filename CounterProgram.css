@@ -1,0 +1,29 @@
+body{
+    color: darkgreen;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+
+}    
+.btnstore{
+    text-align: center;
+}
+
+.btn{
+    padding: 10px 20px;
+    color: black;
+    font-size: medium;
+    background-color: rgb(100, 100, 200);
+    cursor: pointer;
+    transition:background-color 0.25s;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn:hover{
+    background-color: rgb(200, 200, 400);
+}
+
+
