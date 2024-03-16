@@ -1,0 +1,11 @@
+body{
+    align-items: center;
+    display: auto;
+    
+    color: darkgreen;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+}
+#submit{
+    background-color:steelblue;
+}
