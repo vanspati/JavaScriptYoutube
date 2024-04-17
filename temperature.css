@@ -1,0 +1,63 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* background-color:black; */
+    color:beige;
+
+}
+
+.form{
+    text-align: center;
+}
+
+#textbox{
+    width: 20%;
+    border: 2px solid;
+    border-radius: 4px;
+    font-size: 2em;
+    margin-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+label{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+}
+
+button{
+    
+    color: #fff;
+    background-color: coral;
+    font-size: medium;
+    border: none;
+    padding: 10px 10px ;
+    margin: 1px 1px 1px;
+    cursor: pointer;
+    
+}
+button:hover{
+    background-color: #000;
+    color: #fff;
+}
+.container{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+padding: 20px;
+}
+.card{
+    background-color: #fff;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    padding: 20px;
+    width: 650px;
+    background-color:rgb(27, 90, 27);
+}
+#result{
+    font-size: 1.75em;
+    font-weight: bold;
+    
+}
